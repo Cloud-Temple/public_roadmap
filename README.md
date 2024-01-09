@@ -1,4 +1,4 @@
-Cloud Temple CSP - Public Roadmap
+Cloud Temple - Public Roadmap
 
 [Public Roadmap of Cloud Temple CSP's products and services.](https://github.com/orgs/Cloud-Temple/projects/2)
 
